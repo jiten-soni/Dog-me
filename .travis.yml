@@ -1,0 +1,22 @@
+language: node_js
+node_js:
+  - '18'
+  - '20'
+
+# Only run tests on pushes to main or pull requests
+branches:
+  only:
+    - main
+
+# Install dependencies
+install:
+  - npm install
+
+# Run tests (if you have test.js or a test suite)
+script:
+  - node test.js
+
+# Optional: Cache node_modules for faster builds
+cache:
+  directories:
+    - node_modules

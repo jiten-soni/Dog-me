@@ -1,0 +1,18 @@
+# Ignore development files
+.git/
+.vscode/
+.travis.yml
+.gitignore
+test.js
+
+# Ignore local environment/config
+.env
+.env.local
+
+# Ignore node_modules (npm ignores it by default, but just in case)
+node_modules/
+
+# Ignore logs and OS metadata
+*.log
+.DS_Store
+Thumbs.db

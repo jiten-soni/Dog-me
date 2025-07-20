@@ -1,0 +1,18 @@
+{
+  "name": "dog-me",
+  "version": "1.0.1",
+  "description": "Get a random ASCII dog in your terminal",
+  "main": "index.js",
+  "bin": {
+    "dog-me": "./cli.js"
+  },
+  "keywords": [
+    "dog",
+    "ascii",
+    "cli",
+    "fun",
+    "terminal"
+  ],
+  "author": "Jitendra Kharvade",
+  "license": "MIT"
+}

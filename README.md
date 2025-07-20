@@ -35,9 +35,6 @@ dogMe('playful') // => returns a playful dog
 CLI
 npm install -g dog-me
 
-vbnet
-Copy
-Edit
 dog-me
 print a random ASCII dog to your console
 
@@ -55,13 +52,4 @@ This package is for fun and adds a bit of canine joy to your terminal.
 LICENSE
 MIT
 
-yaml
-Copy
-Edit
-
 ---
-
-Isse `README.md` file me save karke apne repo me daal dijiye.  
-Agar chahiye to main CLI options ke liye bhi sample code de sakta hoon.
-
-Batao agar koi aur add karna ho!
